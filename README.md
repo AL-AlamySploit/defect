@@ -6,4 +6,4 @@
   
 <code> $ cd defect </code>
 
-<code> $python defect.py </code>
+<code> $python defect.sh </code>
